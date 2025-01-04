@@ -10,7 +10,7 @@ This project is a weather application that provides temperature and weather cond
 - Dynamically changes the theme based on time (e.g., dark mode after a specific hour).
 
 ## Technologies Used
-- **Languages**: JavaScript, CSS
+- **Languages**: JavaScript, HTML, CSS
 - **Framework/Library**: React
 - **Other Tools**: Create React App, OpenWeatherMap API
 
